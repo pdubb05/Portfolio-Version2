@@ -1,9 +1,9 @@
 portfolio deployment link:
 
-https://pdubb05.github.io/Myportfolio/
+ https://pdubb05.github.io/Portfolio-Version2/
 
 
-# portfolio version-2
+# portfolio-version2
 
 Hi,
 
